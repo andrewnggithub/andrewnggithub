@@ -11,6 +11,7 @@
 mkdir ~/demo
 ```
 
+cd demo
 
 
 
